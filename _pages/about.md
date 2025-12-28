@@ -16,11 +16,15 @@ Her research focuses on improving network security and software security.
 
 Publications
 ======
-1. **BinPRE: Enhancing Field Inference in Binary Analysis Based Protocol Reverse Engineering**<br />
+-  **Understanding the Effectiveness of Mutators in Mutation-based Protocol Fuzzing**<br />
+   Xiyuan Zhang, **Jiayi Jiang**, Yiutak Choi, Ting Su, Haiying Sun, Chengcheng Wan, Geguang Pu<br />
+   IEEE International Conference on Software Analysis, Evolution and Reengineering<br />
+   *SANER 2026*.
+-  **BinPRE: Enhancing Field Inference in Binary Analysis Based Protocol Reverse Engineering**<br />
    **Jiayi Jiang**, Xiyuan Zhang, Chengcheng Wan, Haoyi Chen, Haiying Sun, Ting Su<br />
-   31th ACM Conference on Computer and Communications Security<br />
+   ACM Conference on Computer and Communications Security<br />
    *CCS 2024*.
-3. **Property-based Fuzzing for Finding Data Manipulation Errors in Android Apps**<br />
+-  **Property-based Fuzzing for Finding Data Manipulation Errors in Android Apps**<br />
    Jingling Sun, Ting Su, **Jiayi Jiang**, Jue Wang, Geguang Pu, Zhendong Su<br />
    ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering<br />
    *FSE 2023*.
